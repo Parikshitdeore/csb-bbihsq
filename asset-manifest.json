@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://parikshitdeore.github.io/csb-bbihsq/static/css/main.d38b8054.chunk.css",
+    "main.js": "https://parikshitdeore.github.io/csb-bbihsq/static/js/main.10351a90.chunk.js",
+    "main.js.map": "https://parikshitdeore.github.io/csb-bbihsq/static/js/main.10351a90.chunk.js.map",
+    "runtime-main.js": "https://parikshitdeore.github.io/csb-bbihsq/static/js/runtime-main.112ea8e7.js",
+    "runtime-main.js.map": "https://parikshitdeore.github.io/csb-bbihsq/static/js/runtime-main.112ea8e7.js.map",
+    "static/js/2.c48dedb5.chunk.js": "https://parikshitdeore.github.io/csb-bbihsq/static/js/2.c48dedb5.chunk.js",
+    "static/js/2.c48dedb5.chunk.js.map": "https://parikshitdeore.github.io/csb-bbihsq/static/js/2.c48dedb5.chunk.js.map",
+    "index.html": "https://parikshitdeore.github.io/csb-bbihsq/index.html",
+    "static/css/main.d38b8054.chunk.css.map": "https://parikshitdeore.github.io/csb-bbihsq/static/css/main.d38b8054.chunk.css.map",
+    "static/js/2.c48dedb5.chunk.js.LICENSE.txt": "https://parikshitdeore.github.io/csb-bbihsq/static/js/2.c48dedb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.112ea8e7.js",
+    "static/js/2.c48dedb5.chunk.js",
+    "static/css/main.d38b8054.chunk.css",
+    "static/js/main.10351a90.chunk.js"
+  ]
+}
